@@ -1,4 +1,4 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shishir-dwi&theme=juicyfresh)]
+![trophy](https://github-profile-trophy.vercel.app/?username=shishir-dwi&theme=juicyfresh)
 
 
