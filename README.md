@@ -7,11 +7,15 @@ concepts such as loops, conditionals, and functions.</p>
 
 ### Installation
 To run this project, you need to have a C compiler installed on your computer. The project can be compiled and run using GCC, which is a popular C compiler.
- 
+
 ### Usage:
-→ Clone this repository: git clone https://github.com/shishir-dwi/Calendar
-→ Open `.c` file.
-→ Compile the file using any C compiler.
-→ Run the code.
+
+  <ul>
+ 
+    → Clone this repository: git clone https://github.com/shishir-dwi/Calendar
+    → Open `.c` file.
+    → Compile the file using any C compiler.
+    → Run the code.
+  </ul>
 
 
